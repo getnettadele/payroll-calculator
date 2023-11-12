@@ -1,1 +1,2 @@
 # payroll-calculator
+- [ ] improved documentation
